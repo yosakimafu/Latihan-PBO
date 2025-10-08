@@ -14,7 +14,7 @@ class Karyawan {
     }
 }
 
-const karyawan = new Karyawan("Ferdy", "Dosen", "500");
+const karyawan = new Karyawan("Arifah", "Dosen", "500");
 
 console.log(karyawan.getInformation());
 console.log(karyawan.getHistoryOccupation());
