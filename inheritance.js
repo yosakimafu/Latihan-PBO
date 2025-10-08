@@ -20,5 +20,5 @@ class Professor extends Person {
     }
 }
 
-let professor = new Professor("Ferdy","Lecturer","Science");
+let professor = new Professor("Arifah","Lecturer","Science");
 professor.getInformasion();
